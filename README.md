@@ -1,4 +1,4 @@
-# BRI-Fortune-Wheel
+# Fortune-Wheel
 
 Fortune Wheel
 
