@@ -1,0 +1,14 @@
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\bin\Debug\FortuneWheel.exe.config
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\bin\Debug\FortuneWheel.exe
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\bin\Debug\FortuneWheel.pdb
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\bin\Debug\SharpConfig.dll
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\bin\Debug\SharpConfig.xml
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheelConfigEditor.csproj.AssemblyReference.cache
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheelConfigEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheel.Form1.resources
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheel.Properties.Resources.resources
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheelConfigEditor.csproj.GenerateResource.cache
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheelConfigEditor.csproj.CoreCompileInputs.cache
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheelConfigEditor.csproj.CopyComplete
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheel.exe
+C:\Users\FataOrgana-Dev3\Documents\FO\BRI-Fortune-Wheel\FortuneWheelConfigEditor\obj\Debug\FortuneWheel.pdb
